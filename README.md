@@ -29,7 +29,7 @@ I'm Luis, and I'm passionate about building things, learning new tech, and devel
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile link" width="20" height="20" style="vertical-align: middle;"/>
   </a>
 
-* **Email:** [Send email](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
+* **Email Address:** [Send email](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
   <a href="mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="iCloud email link" width="20" height="20" style="vertical-align: middle;"/>
+    <img src="https://simpleicons.org/icons/apple.svg" alt="iCloud email link" width="20" height="20" style="vertical-align: middle; filter: invert(1);"/>
   </a>
