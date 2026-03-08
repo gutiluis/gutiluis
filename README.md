@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### 🌐 Online Profiles & Porfolio:
 
-* [GitHub](https://github.com/gutiluis) – Repositories and projects
+* **GitHub repos and projects** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gutiluis)
 
 * **Developer feed** [![daily.dev](https://img.shields.io/badge/-daily.dev-222222?style=flat&logo=daily.dev&logoColor=white)](https://app.daily.dev/gutiluis)
 
