@@ -26,7 +26,7 @@ I'm Luis, and I'm passionate about building things, learning new tech, and devel
 ### How to reach me:
 * **LinkedIn:** [View my profile](https://www.linkedin.com/in/luis-g-1546971ba/)
   <a href="https://www.linkedin.com/in/luis-g-1546971ba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile link" width="30" height="30" style="vertical-align: middle;"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile link" width="20" height="20" style="vertical-align: middle;"/>
   </a>
 
 * **Email:** [Send email](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
