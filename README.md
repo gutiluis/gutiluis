@@ -32,7 +32,7 @@ I'm Luis, and I'm passionate about building things, learning new tech, and devel
 * **CSS Postprocessors:** Lightning CSS, PostCSS
 * **HTML Validators:** Nu Html Checker, HTMLHint
 * **ARIA Accessibility Testing:** Axe-core
-* **RDMS:** MySQL, MongoDb, PostgreSQL, SQLite
+* **RDBMS:** MySQL, MongoDb, PostgreSQL, SQLite
 
 ---
 
