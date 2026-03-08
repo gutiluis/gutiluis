@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 * **HTML Linters:** HTMLHint
 * **ARIA Accessibility Testing:** Axe-core
 * **RDBMS:** MySQL, PostgreSQL, SQLite
-* **NoSQL db:** MongoDB
+* **NoSQL:** MongoDB
 
 ---
 
@@ -48,6 +48,8 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile link" width="20" height="20" style="vertical-align: middle;"/>
   </a>
 * [Portfolio Website](https://yourwebsite.com) – Personal projects and resume
+
+---
 
 ### How to reach me 📫:
 * **Email Address:** [Send email](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!) [![iCloud](https://img.shields.io/badge/iCloud-white?style=flat&logo=icloud&logoColor=black)](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
