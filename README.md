@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 * [GitHub](https://github.com/gutiluis) – Repositories and projects
 
-* **daily.dev**[![daily.dev](https://img.shields.io/badge/-daily.dev-222222?style=flat&logo=daily.dev&logoColor=white)](https://app.daily.dev/gutiluis)
+* **Developer feed** [![daily.dev](https://img.shields.io/badge/-daily.dev-222222?style=flat&logo=daily.dev&logoColor=white)](https://app.daily.dev/gutiluis)
 
 * [dev.to](https://dev.to/gutiluis) – Blogs and tutorials
 [![dev.to](https://img.shields.io/badge/-DEV%20Community-000000?style=flat&logo=dev-dot-to&logoColor=white)](https://dev.to/gutiluis)
