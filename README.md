@@ -27,5 +27,5 @@ I'm Luis, and I'm passionate about building things, learning new tech, and devel
 * **LinkedIn:** [View profile](https://www.linkedin.com/in/luis-g-1546971ba/)
 <a href="https://www.linkedin.com/in/luis-g-1546971ba/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile link" width="40" height="40"/>
-</a>
+</a><br>
 * **Email Address:** [Send email](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
