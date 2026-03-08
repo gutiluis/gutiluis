@@ -25,4 +25,5 @@ I'm Luis, and I'm passionate about building things, learning new tech, and devel
 
 ### How to reach me:
 * **LinkedIn:** [View profile](https://www.linkedin.com/in/luis-g-1546971ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-g-1546971ba/)
 * **Email Address:** [Send email](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
