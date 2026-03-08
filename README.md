@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Luis, and I'm passionate about building things, learning new tech, and developing web applications.
+💻 I'm Luis, and I'm passionate about building things, learning new tech, and developing web applications.
 
 
 ### Tech Stack ⚡:
@@ -38,10 +38,16 @@ I'm Luis, and I'm passionate about building things, learning new tech, and devel
 
 ---
 
-### How to reach me 📫:
+## 🌐 Online Profiles & Porfolio
+
+* [GitHub](https://github.com/gutiluis) – Repositories and projects
+* [daily.dev](https://app.daily.dev/gutiluis) – My developer feed
+* [dev.to](https://dev.to/yourusername) – Blogs and tutorials
 * **LinkedIn:** [View my profile](https://www.linkedin.com/in/luis-g-1546971ba/)
   <a href="https://www.linkedin.com/in/luis-g-1546971ba/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile link" width="20" height="20" style="vertical-align: middle;"/>
   </a>
+* [Portfolio Website](https://yourwebsite.com) – Personal projects and resume
 
+### How to reach me 📫:
 * **Email Address:** [Send email](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!) [![iCloud](https://img.shields.io/badge/iCloud-white?style=flat&logo=icloud&logoColor=black)](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
