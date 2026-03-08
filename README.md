@@ -26,13 +26,15 @@ I'm Luis, and I'm passionate about building things, learning new tech, and devel
 * **Web Frameworks:** Next.js, Flask, Django, Express.js
 * **Testing Frameworks:** Vitest, Pytest, Unittest
 * **Containers:** Docker
-* **UI/UX:** Bootstrap, Tailwind CSS, React
+* **UI/UX:** Bootstrap, Tailwind CSS, React, LynxJS
 * **Search Engine Optimization:** Lighthouse
 * **CSS Preprocessors:** Dart Sass, Sass, LESS
 * **CSS Postprocessors:** Lightning CSS, PostCSS
-* **HTML Validators:** Nu Html Checker, HTMLHint
+* **HTML Validators:** Nu Html Checker
+* **HTML Linters:** HTMLHint
 * **ARIA Accessibility Testing:** Axe-core
-* **RDBMS:** MySQL, MongoDb, PostgreSQL, SQLite
+* **RDBMS:** MySQL, PostgreSQL, SQLite
+* **NoSQL db:** MongoDB
 
 ---
 
