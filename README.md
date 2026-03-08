@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 * [dev.to](https://dev.to/gutiluis) – Blogs and tutorials
 [![dev.to](https://img.shields.io/badge/-DEV%20Community-000000?style=flat&logo=dev-dot-to&logoColor=white)](https://dev.to/gutiluis)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-g-1546971ba/)
+* **LinkedIn** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-g-1546971ba/)
 
 * [Portfolio Website](https://yourwebsite.com) – Personal projects and resume
 
