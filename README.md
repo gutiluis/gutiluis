@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌐 Online Profiles & Porfolio
+### 🌐 Online Profiles & Porfolio
 
 * [GitHub](https://github.com/gutiluis) – Repositories and projects
 * [daily.dev](https://app.daily.dev/gutiluis) – My developer feed
@@ -54,4 +54,5 @@ Here are some ideas to get you started:
 ### How to reach me 📫:
 * **Email Address:** [Send email](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!) [![iCloud](https://img.shields.io/badge/iCloud-white?style=flat&logo=icloud&logoColor=black)](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
 * **X:** [@gtzvenegasluis](https://x.com/gtzvenegasluis)
+* [![X](https://img.shields.io/badge/X-@gtzvenegasluis-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/gtzvenegasluis)
 * **Discord add me:** goku_41760#4176
