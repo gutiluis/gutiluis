@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 * [GitHub](https://github.com/gutiluis) – Repositories and projects
 * [daily.dev](https://app.daily.dev/gutiluis) – My developer feed
-[![daily.dev](https://img.shields.io/badge/-daily.dev-222222?style=flat&logo=daily.dev&logoColor=white)](https://app.daily.dev/yourusername)
+[![daily.dev](https://img.shields.io/badge/-daily.dev-222222?style=flat&logo=daily.dev&logoColor=white)](https://app.daily.dev/gutiluis)
 * [dev.to](https://dev.to/gutiluis) – Blogs and tutorials
 * **LinkedIn:** [View my profile](https://www.linkedin.com/in/luis-g-1546971ba/)
   <a href="https://www.linkedin.com/in/luis-g-1546971ba/" target="_blank">
