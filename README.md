@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 * [daily.dev](https://app.daily.dev/gutiluis) – My developer feed
 [![daily.dev](https://img.shields.io/badge/-daily.dev-222222?style=flat&logo=daily.dev&logoColor=white)](https://app.daily.dev/gutiluis)
 * [dev.to](https://dev.to/gutiluis) – Blogs and tutorials
+[![dev.to](https://img.shields.io/badge/-DEV%20Community-000000?style=flat&logo=dev-dot-to&logoColor=white)](https://dev.to/gutiluis)
 * **LinkedIn:** [View my profile](https://www.linkedin.com/in/luis-g-1546971ba/)
   <a href="https://www.linkedin.com/in/luis-g-1546971ba/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile link" width="20" height="20" style="vertical-align: middle;"/>
