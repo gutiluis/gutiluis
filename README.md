@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Luis, and I'm passionate about building things, learning new tech, and developing web applications.
 
 
-### Tech Stack:
+### Tech Stack ⚡:
 * **Languages:** Python, JavaScript, HTML/CSS, Linux/Bash, TypeScript, SQL
 * **Tools:** Git, VS Code, Node.js, Electron, Pyenv, Vite
 * **Linting:** ESLint, Flake8, Pylint, ShellCheck
@@ -38,7 +38,7 @@ I'm Luis, and I'm passionate about building things, learning new tech, and devel
 
 ---
 
-### How to reach me:
+### How to reach me 📫:
 * **LinkedIn:** [View my profile](https://www.linkedin.com/in/luis-g-1546971ba/)
   <a href="https://www.linkedin.com/in/luis-g-1546971ba/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile link" width="20" height="20" style="vertical-align: middle;"/>
