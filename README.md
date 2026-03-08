@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### 🌐 Online Profiles & Porfolio
 
 * [GitHub](https://github.com/gutiluis) – Repositories and projects
-* **daily.dev:** [Developer feed][![daily.dev](https://img.shields.io/badge/-daily.dev-222222?style=flat&logo=daily.dev&logoColor=white)](https://app.daily.dev/gutiluis)
+* **daily.dev:** [Developer feed](https://app.daily.dev/gutiluis)[![daily.dev](https://img.shields.io/badge/-daily.dev-222222?style=flat&logo=daily.dev&logoColor=white)](https://app.daily.dev/gutiluis)
 * [dev.to](https://dev.to/gutiluis) – Blogs and tutorials
 [![dev.to](https://img.shields.io/badge/-DEV%20Community-000000?style=flat&logo=dev-dot-to&logoColor=white)](https://dev.to/gutiluis)
 * **LinkedIn:** [View my profile](https://www.linkedin.com/in/luis-g-1546971ba/)
