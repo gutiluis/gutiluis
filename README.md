@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 * [GitHub](https://github.com/gutiluis) – Repositories and projects
 * [daily.dev](https://app.daily.dev/gutiluis) – My developer feed
-* [dev.to](https://dev.to/yourusername) – Blogs and tutorials
+* [dev.to](https://dev.to/gutiluis) – Blogs and tutorials
 * **LinkedIn:** [View my profile](https://www.linkedin.com/in/luis-g-1546971ba/)
   <a href="https://www.linkedin.com/in/luis-g-1546971ba/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile link" width="20" height="20" style="vertical-align: middle;"/>
