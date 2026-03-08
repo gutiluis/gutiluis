@@ -17,9 +17,16 @@ Here are some ideas to get you started:
 
 I'm Luis, and I'm passionate about building things, learning new tech, and developing web applications.
 
-### Tech Stack
+### Tech Stack:
 * **Languages:** Python, JavaScript, HTML/CSS, Linux/Bash, TypeScript
-* **Tools:** Git, VS Code, Docker, Flask, Django, Tailwind, Node.js
+* **Tools:** Git, VS Code, Node.js, Electron, React
+* **Linting:** ESLint, Flake8, Pylint, ShellCheck
+* **Debugging:** Logging, Pdb
+* **Web Frameworks:** Next.js, Vite, Flask, Django, Express.js
+* **Testing Frameworks:** Vitest, Pytest, Unittest
+* **Accessibility Testing:** Axe-core, Lighthouse
+* **Containers:** Docker
+* **UI/UX:** Bootstrap, Tailwind CSS
 
 ---
 
