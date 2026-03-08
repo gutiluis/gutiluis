@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 ### How to reach me 📫:
 * **Email Address:** [Send email](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!) [![iCloud](https://img.shields.io/badge/iCloud-white?style=flat&logo=icloud&logoColor=black)](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
 * **X:** [@gtzvenegasluis](https://x.com/gtzvenegasluis)
-* **Slack:** https://app.slack.com/client/TU7GTCHEF/CULSH180P
-* **Discord:** goku_41760
+* **Slack:** [Join Workspace](https://app.slack.com/client/TU7GTCHEF/CULSH180P)
+* **Discord:** [goku_41760](https://discord.com/users/goku_41760)
