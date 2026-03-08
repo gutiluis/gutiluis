@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 * **Developer feed** [![daily.dev](https://img.shields.io/badge/-daily.dev-222222?style=flat&logo=daily.dev&logoColor=white)](https://app.daily.dev/gutiluis)
 
-* **Developer blogs:** [![dev.to](https://img.shields.io/badge/-DEV%20Community-000000?style=flat&logo=dev-dot-to&logoColor=white)](https://dev.to/gutiluis)
+* **Developer blogs** [![dev.to](https://img.shields.io/badge/-DEV%20Community-000000?style=flat&logo=dev-dot-to&logoColor=white)](https://dev.to/gutiluis)
 
 * **LinkedIn** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-g-1546971ba/)
 
