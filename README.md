@@ -29,3 +29,4 @@ I'm Luis, and I'm passionate about building things, learning new tech, and devel
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile link" width="30" height="30" style="vertical-align: middle;"/>
   </a>
 * **Email Address:** [Send email](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-3693F3?style=flat&logo=icloud&logoColor=white)](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
