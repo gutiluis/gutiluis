@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+💻 I'm Luis, and I'm passionate about building things, learning new tech, and developing web applications.
+
 <!--
 **gutiluis/gutiluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +17,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I'm Luis, and I'm passionate about building things, learning new tech, and developing web applications.
-
 ## Contents
+- [About Me](#about-me)
 - [Tech Stack](#tech-stack-)
 - [Online Profiles & Portfolio](#-online-profiles--portfolio)
 - [How to reach me](#how-to-reach-me--%EF%B8%8F)
+
+---
+
+### About Me:
+I’m a web developer with experience in **backend**, **frontend**, and **APIs**.  
+I love creating full-stack applications, working with databases, and optimizing code for performance.  
+Currently exploring cloud deployment, DevOps practices, and modern frontend frameworks.
 
 ---
 
