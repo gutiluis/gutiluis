@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Contents
 - [Tech Stack](#tech-stack)
 - [Online Profiles & Portfolio](#online-profiles--portfolio)
-- [How to Reach Me](#how-to-reach-me)
+- [How to reach me](#how-to-reach-me)
 
 ---
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🌐 Online Profiles & Porfolio:
+### 🌐 Online Profiles & Portfolio:
 
 * **GitHub repos and projects** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gutiluis)
 
