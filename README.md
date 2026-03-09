@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💻 I'm Luis, and I'm passionate about building things, learning new tech, and developing web applications.
 
 ## Contents
-- [Tech Stack](#tech-stack)
+- [Tech Stack](#tech-stack-)
 - [Online Profiles & Portfolio](#-online-profiles--portfolio)
 - [How to reach me](#how-to-reach-me-)
 
