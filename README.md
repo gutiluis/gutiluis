@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - [About Me](#about-me)
 - [Tech Stack](#tech-stack-)
 - [Online Profiles & Portfolio](#-online-profiles--portfolio)
-- [How to reach me](#how-to-reach-me--%EF%B8%8F)
+- [How to Reach Me](#how-to-reach-me--%EF%B8%8F)
 
 ---
 
@@ -66,7 +66,7 @@ Currently exploring cloud deployment, DevOps practices, and modern frontend fram
 
 ---
 
-### How to reach me: 📫 ✉️
+### How to Reach Me: 📫 ✉️
 * **Email Address** [![Email](https://img.shields.io/badge/-Email-DDDDDD?style=flat&logo=maildotru&logoColor=black)](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
 
 * **X:** [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/gtzvenegasluis)
@@ -74,4 +74,9 @@ Currently exploring cloud deployment, DevOps practices, and modern frontend fram
 * **Discord add me:** goku_41760#4176
 
 ---
-This site was built using [GitHub Pages](https://pages.github.com/).  
+
+### GitHub Stats: 📊
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gutiluis&layout=compact&theme=radical)
+
+---
+This site was built using [GitHub Pages](https://pages.github.com/).
