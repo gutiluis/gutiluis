@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Contents
 - [Tech Stack](#tech-stack)
 - [Online Profiles & Portfolio](#online-profiles--portfolio)
-- [How to reach me](#how-to-reach-me)
+- [How to reach me](#how-to-reach-me-)
 
 ---
 
