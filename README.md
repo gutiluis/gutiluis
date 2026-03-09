@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ---
 
-### How to reach me 📫:
+### How to reach me 📫 ✉️
 * **Email Address** [![Email](https://img.shields.io/badge/-Email-DDDDDD?style=flat&logo=maildotru&logoColor=black)](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
 
 * **X:** [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/gtzvenegasluis)
