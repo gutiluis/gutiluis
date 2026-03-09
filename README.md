@@ -63,7 +63,7 @@ Currently exploring cloud deployment, DevOps practices, and modern frontend fram
 
 * **LinkedIn** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-g-1546971ba/)
 
-* [Portfolio Website](https://yourwebsite.com) – Personal projects and resume
+<!--* [Portfolio Website](https://yourwebsite.com) – Personal projects and resume-->
 
 ---
 
