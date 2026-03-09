@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## Contents
+- [Tech Stack](#tech-stack)
+- [Online Profiles & Portfolio](#online-profiles--portfolio)
+- [How to Reach Me](#how-to-reach-me)
+
+
+
 <!--
 **gutiluis/gutiluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
