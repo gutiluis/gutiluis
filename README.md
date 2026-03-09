@@ -58,3 +58,6 @@ Here are some ideas to get you started:
 * **X:** [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/gtzvenegasluis)
 
 * **Discord add me:** goku_41760#4176
+
+---
+This site was built using [GitHub Pages](https://pages.github.com/).  
