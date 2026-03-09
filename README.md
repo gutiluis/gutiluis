@@ -75,7 +75,7 @@ Currently exploring cloud deployment, DevOps practices, and modern frontend fram
 
 ---
 
-### GitHub Stats: 📊
+### GitHub Stats: 📊\
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gutiluis&layout=compact&theme=radical)
 
