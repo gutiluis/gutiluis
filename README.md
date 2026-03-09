@@ -55,5 +55,6 @@ Here are some ideas to get you started:
 ### How to reach me 📫:
 * **Email Address** [![Email](https://img.shields.io/badge/-Email-DDDDDD?style=flat&logo=maildotru&logoColor=black)](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
 
-* **X:** [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/gtzvenegasluis)
+* **X** [![X](https://img.shields.io/badge/-X-1C9CEA?style=flat&logo=twitter&logoColor=white)](https://x.com/gtzvenegasluis)
+
 * **Discord add me:** goku_41760#4176
