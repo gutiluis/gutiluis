@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 ---
 
-
 ### Tech Stack: ⚡
 * **Languages:** Python, JavaScript, HTML/CSS, Linux/Bash, TypeScript, SQL
 * **Tools:** Git, VS Code, Node.js, Electron, Pyenv, Vite
