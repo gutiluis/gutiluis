@@ -48,8 +48,9 @@ Currently exploring cloud deployment, DevOps practices, and modern frontend fram
 * **HTML Validators:** Nu Html Checker
 * **HTML Linters:** HTMLHint
 * **ARIA Accessibility Testing:** Axe-core
-* **RDBMS:** MySQL, PostgreSQL, SQLite
+* **RDBMS:** MySQL, PostgreSQL, SQLite, Supabase
 * **NoSQL:** MongoDB
+* **DevOps/Cloud:** Cloudflare
 
 ---
 
