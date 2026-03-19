@@ -33,24 +33,38 @@ Currently exploring cloud deployment, DevOps practices, and modern frontend fram
 
 ---
 
-### Tech Stack: ⚡
-* **Languages:** Python, JavaScript, HTML/CSS, Linux/Bash, TypeScript, SQL
-* **Tools:** Git, VS Code, Node.js, Electron, Pyenv, Vite
-* **Linting:** ESLint, Flake8, Pylint, ShellCheck
-* **Debugging:** Logging, Pdb
-* **Web Frameworks:** Next.js, Flask, Django, Express.js
-* **Testing Frameworks:** Vitest, Pytest, Unittest
-* **Containers:** Docker
-* **UI/UX:** Bootstrap, Tailwind CSS, React, LynxJS
-* **Search Engine Optimization:** Lighthouse
-* **CSS Preprocessors:** Dart Sass, Sass, LESS
-* **CSS Postprocessors:** Lightning CSS, PostCSS
-* **HTML Validators:** Nu Html Checker
-* **HTML Linters:** HTMLHint
-* **ARIA Accessibility Testing:** Axe-core
-* **RDBMS:** MySQL, PostgreSQL, SQLite, Supabase
-* **NoSQL:** MongoDB
-* **DevOps/Cloud:** Cloudflare
+### Tech Stack ⚡
+
+**Languages:**  
+Python, JavaScript, HTML/CSS, TypeScript, SQL, Linux/Bash
+
+**Tools & Environment:**  
+Git, VS Code, Node.js, Electron, Pyenv, Vite, Psycopg
+
+**Web Frameworks:**  
+Flask, Django, Express.js, Next.js
+
+**Frontend / UI / UX:**  
+React, Bootstrap, Tailwind CSS, LynxJS
+
+**Testing & Debugging:**  
+Vitest, Pytest, Unittest, Logging, Pdb
+
+**Linting & Validation:**  
+ESLint, Flake8, Pylint, ShellCheck, HTMLHint, Nu Html Checker
+
+**CSS & HTML Processing:**  
+Dart Sass, Sass, LESS, Lightning CSS, PostCSS
+
+**Accessibility & SEO Tools:**  
+Axe-core, Lighthouse
+
+**Databases:**  
+RDBMS: MySQL, PostgreSQL, SQLite, Supabase  
+NoSQL: MongoDB
+
+**Containers & Deployment:**  
+Docker, Cloudflare
 
 ---
 
