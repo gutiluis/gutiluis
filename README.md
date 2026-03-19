@@ -33,37 +33,37 @@ Currently exploring cloud deployment, DevOps practices, and modern frontend fram
 
 ---
 
-### Tech Stack ⚡
+### ⚡ Tech Stack
 
-**Languages:**  
+**💻 Languages:**  
 Python, JavaScript, HTML/CSS, TypeScript, SQL, Linux/Bash
 
-**Tools & Environment:**  
+**🛠 Tools & Environment:**  
 Git, VS Code, Node.js, Electron, Pyenv, Vite, Psycopg
 
-**Web Frameworks:**  
+**🌐 Web Frameworks:**  
 Flask, Django, Express.js, Next.js
 
-**Frontend / UI / UX:**  
+**🎨 Frontend / UI / UX:**  
 React, Bootstrap, Tailwind CSS, LynxJS
 
-**Testing & Debugging:**  
+**🧪 Testing & Debugging:**  
 Vitest, Pytest, Unittest, Logging, Pdb
 
-**Linting & Validation:**  
+**🔍 Linting & Validation:**  
 ESLint, Flake8, Pylint, ShellCheck, HTMLHint, Nu Html Checker
 
-**CSS & HTML Processing:**  
+**🎨 CSS & HTML Processing:**  
 Dart Sass, Sass, LESS, Lightning CSS, PostCSS
 
-**Accessibility & SEO Tools:**  
+**♿ Accessibility & SEO Tools:**  
 Axe-core, Lighthouse
 
-**Databases:**  
+**🗄 Databases:**  
 RDBMS: MySQL, PostgreSQL, SQLite, Supabase  
 NoSQL: MongoDB
 
-**Containers & Deployment:**  
+**🐳 Containers & Deployment:**  
 Docker, Cloudflare
 
 ---
@@ -91,6 +91,10 @@ Docker, Cloudflare
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+---
 ### GitHub Stats: 📊
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gutiluis&layout=compact&theme=radical)
