@@ -15,7 +15,6 @@
 - [Tech Stack](#tech-stack-)
 - [Online Profiles & Portfolio](#-online-profiles--portfolio)
 - [How to Reach Me](#how-to-reach-me--%EF%B8%8F)
-- [GitHub Stats](#github-stats-)
 
 ---
 
