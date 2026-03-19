@@ -2,6 +2,8 @@
 
 💻 I'm Luis, and I'm passionate about building things, learning new tech, and developing web applications.
 
+---
+
 ### GitHub Stats: 📊
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gutiluis&layout=compact&theme=radical)
