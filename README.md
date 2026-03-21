@@ -40,7 +40,7 @@ Flask, Django, Express.js, Next.js
 React, Bootstrap, Tailwind CSS, LynxJS
 
 **🧪 Testing & Debugging:**  
-Vitest, Pytest, Unittest, Logging, Pdb
+Vitest, Pytest, Unittest, Logging, Pdb, GitHub Actions
 
 **🔍 Linting & Validation:**  
 ESLint, Flake8, Pylint, ShellCheck, HTMLHint, Nu Html Checker, Pre-commit
