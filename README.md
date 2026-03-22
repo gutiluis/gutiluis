@@ -43,7 +43,7 @@ React, Bootstrap, Tailwind CSS, LynxJS
 Vitest, Pytest, Unittest, Logging, Pdb, GitHub Actions
 
 **🔍 Linting & Validation:**  
-ESLint, Flake8, Pylint, ShellCheck, HTMLHint, Nu Html Checker, Pre-commit
+ESLint, Flake8, Pylint, ShellCheck, HTMLHint, Nu Html Checker, Pre-commit, Black
 
 **🎨 CSS & HTML Processing:**  
 Dart Sass, Sass, LESS, Lightning CSS, PostCSS
@@ -58,6 +58,8 @@ NoSQL: MongoDB
 **🐳 Containers & Deployment:**  
 Docker, Cloudflare
 
+**🛡 Security:**
+Safety
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
