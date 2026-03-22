@@ -58,7 +58,7 @@ NoSQL: MongoDB
 **🐳 Containers & Deployment:**  
 Docker, Cloudflare
 
-**🛡 Security:**
+**🛡 Security:**  
 Safety
 
 ---
