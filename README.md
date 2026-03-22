@@ -60,6 +60,7 @@ Docker, Cloudflare
 
 **🛡 Security:**
 Safety
+
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
