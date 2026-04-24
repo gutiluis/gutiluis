@@ -45,7 +45,7 @@ Vitest, Pytest, Unittest, Logging, Pdb, GitHub Actions, Bats
 **🔍 Linting & Validation:**  
 ESLint, Flake8, Pylint, ShellCheck, HTMLHint, Nu Html Checker, Pre-commit, Black
 
-**🎨 CSS & HTML Processing:**  
+**🎨 CSS Processing:**  
 Dart Sass, Sass, Lightning CSS
 
 **♿ Accessibility & SEO Tools:**  
