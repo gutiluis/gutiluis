@@ -20,7 +20,7 @@
 
 ### About Me:
 I’m a web developer with experience in **backend**, **frontend**, and **APIs**.  
-I love creating full-stack applications, working with databases, and optimizing code for performance.  
+I love creating full-stack applications, learning new languages, working with databases, and optimizing code for performance.  
 Currently exploring cloud deployment, DevOps practices, and modern frontend frameworks.
 
 ---
