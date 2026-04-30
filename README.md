@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 I'm Luis, and I'm passionate about building, learning new tech, and developing web applications.
+💻 I'm Luis, and I'm passionate about building architecture, learning new tech, and developing web applications.
 
 ---
 
