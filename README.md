@@ -92,9 +92,9 @@ Safety
 
 * **X:** [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/gtzvenegasluis)
 
-* **Discord:`technobool`**
+* **Discord:** [`technobool`](https://discord.com/users/technobool)
 
-* **Slack:`technobool.slack.com`**
+* **Slack:** [`technobool.slack.com`](https://technobool.slack.com)
 
 ---
 This site was built using [GitHub Pages](https://pages.github.com/).
