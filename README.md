@@ -84,11 +84,11 @@ Safety
 ---
 
 ### How to Reach Me: 📫 ✉️
-* **Email Address** [![Email](https://img.shields.io/badge/-Email-DDDDDD?style=flat&logo=maildotru&logoColor=black)](mailto:gutierrez.luis@icloud.com?subject=Hi%20Luis!)
+* **Email Address:** [![Email](https://img.shields.io/badge/-Email-DDDDDD?style=flat&logo=maildotru&logoColor=black)](mailto:gutluis@proton.me?subject=Hi%20Luis!)
 
 * **X:** [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/gtzvenegasluis)
 
-* **Discord add me:** goku_41760#4176
+* **Discord:**`technobool`**
 
 ---
 This site was built using [GitHub Pages](https://pages.github.com/).
