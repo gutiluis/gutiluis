@@ -83,7 +83,7 @@ Safety
 
 * **LinkedIn** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-g-1546971ba/)
 
-* **GitLab:** [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/gutiluis)
+* **GitLab** [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/gutiluis)
 
 <!--* [Portfolio Website](https://yourwebsite.com) – Personal projects and resume-->
 
