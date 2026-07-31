@@ -53,7 +53,7 @@ Dart Sass, Sass, Lightning CSS
 Axe-core, Lighthouse
 
 **🗄 Databases:**  
-RDBMS: MySQL, PostgreSQL, SQLite, Supabase
+RDBMS: MySQL, PostgreSQL, SQLite, Supabase  
 NoSQL: MongoDB
 
 **🐳 Containers & Deployment:**  
