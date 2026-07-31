@@ -31,7 +31,7 @@ Currently exploring cloud deployment, DevOps practices, and modern frontend fram
 Python, JavaScript, HTML/CSS, TypeScript, SQL, Linux/Bash, YAML
 
 **🛠 Tools & Environment:**  
-Git, VS Code, Node.js, Electron, Pyenv, Vite, Psycopg, GitHub
+Git, VS Code, Node, Electron, Pyenv, Vite, Psycopg, GitHub
 
 **🌐 Web Frameworks & Data Formats:**  
 Flask, Django, Express.js, Next.js, JSON
@@ -52,11 +52,11 @@ Dart Sass, Sass, Lightning CSS
 Axe-core, Lighthouse
 
 **🗄 Databases:**  
-RDBMS: MySQL, PostgreSQL, SQLite, Supabase  
+RDBMS: MySQL, PostgreSQL, SQLite, Supabase
 NoSQL: MongoDB
 
 **🐳 Containers & Deployment:**  
-Docker, Cloudflare
+Docker, Cloudflare, Colima
 
 **🛡 Security:**  
 Safety
