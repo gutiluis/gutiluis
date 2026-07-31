@@ -36,7 +36,7 @@ Git, VS Code, Node, Electron, Pyenv, Vite, Psycopg, GitHub
 **🌐 Web Frameworks & Data Formats:**  
 Flask, Django, Express.js, Next.js, JSON
 
-**💳 Third-Party APIs & Services:**
+**💳 Third-Party APIs & Services:**  
 Stripe
 
 **🎨 Frontend / UI / UX:**  
