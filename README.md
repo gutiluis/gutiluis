@@ -31,7 +31,7 @@ Currently exploring cloud deployment, DevOps practices, and modern frontend fram
 Python, JavaScript, HTML/CSS, TypeScript, SQL, Linux/Bash, YAML
 
 **🛠 Tools & Environment:**  
-Git, VS Code, Node, Electron, Pyenv, Vite, Psycopg, GitHub
+Git, VS Code, Node, Electron, Pyenv, Vite, Psycopg, GitHub, Venv
 
 **🌐 Web Frameworks & Data Formats:**  
 Flask, Django, Express.js, Next.js, JSON
