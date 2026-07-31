@@ -27,14 +27,14 @@ Currently exploring cloud deployment, DevOps practices, and modern frontend fram
 
 ### ⚡ Tech Stack
 
-**💻 Languages:**  
-Python, JavaScript, HTML/CSS, TypeScript, SQL, Linux/Bash, YAML
+**💻 Languages & Markup:**  
+Python, JavaScript, HTML/CSS, TypeScript, SQL, Linux/Bash, YAML, JSON
 
 **🛠 Tools & Environment:**  
 Git, VS Code, Node, Electron, Pyenv, Vite, Psycopg, GitHub, Venv
 
-**🌐 Web Frameworks & Data Formats:**  
-Flask, Django, Express.js, Next.js, JSON
+**🌐 Web Frameworks:**  
+Flask, Django, Express.js, Next.js
 
 **💳 Third-Party APIs & Services:**  
 Stripe
