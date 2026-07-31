@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 I'm Luis, and I'm passionate about building architecture, implementing new tech, designing APIs, servers and databases, and developing web applications.
+💻 I'm Luis, a full-stack developer passionate about building robust system architecture, designing high-performance APIs, and developing resilient web applications.
 
 ---
 
@@ -18,10 +18,8 @@
 
 ---
 
-### About Me:
-I’m a web developer with experience in **backend**, **frontend**, and **APIs**.  
-I love creating full-stack applications, learning new languages, working with databases, and optimizing code for performance.  
-Currently exploring cloud deployment, DevOps practices, and modern frontend frameworks.
+### About Me: 
+I love specializing in designing scalable distributed systems, high-performance APIs, and resilient cloud architectures. Experienced in driving projects from low-level data persistence and database migrations to secure transport layers and modern, responsive frontends. Passionate about operational readiness, developer experience, and shipping secure, production-ready software.
 
 ---
 
