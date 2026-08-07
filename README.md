@@ -34,7 +34,7 @@ Git, VS Code, Node, Electron, Pyenv, Vite, Psycopg, GitHub, Venv
 **🌐 Web Frameworks:**  
 Flask, Django, Axum
 
-**💳 Third-Party APIs & Services:**  
+**💳 Payment APIs:**  
 Stripe
 
 **🎨 Frontend / UI / UX:**  
