@@ -26,7 +26,7 @@ I love specializing in designing scalable distributed systems, high-performance 
 ### ⚡ Tech Stack
 
 **💻 Languages & Markup:**  
-Python, JavaScript, HTML/CSS, TypeScript, SQL, Linux/Bash, YAML, JSON
+Python, JavaScript, HTML/CSS, TypeScript, SQL, Linux/Bash, Rust, YAML, JSON
 
 **🛠 Tools & Environment:**  
 Git, VS Code, Node, Electron, Pyenv, Vite, Psycopg, GitHub, Venv
