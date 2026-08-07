@@ -32,7 +32,7 @@ Python, JavaScript, HTML/CSS, TypeScript, SQL, Linux/Bash, Rust, YAML, JSON
 Git, VS Code, Node, Electron, Pyenv, Vite, Psycopg, GitHub, Venv
 
 **🌐 Web Frameworks:**  
-Flask, Django, Express.js, Next.js
+Flask, Django
 
 **💳 Third-Party APIs & Services:**  
 Stripe
