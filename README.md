@@ -38,7 +38,7 @@ Flask, Django, Axum
 Stripe
 
 **🎨 Frontend / UI / UX:**  
-React, Bootstrap, Tailwind CSS, LynxJS
+React, Bootstrap, Tailwind CSS, LynxJS, WASM
 
 **🧪 Testing & Debugging:**  
 Vitest, Pytest, Unittest, Logging, Pdb, GitHub Actions, Bats
