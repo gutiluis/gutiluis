@@ -29,7 +29,7 @@ I love specializing in designing scalable distributed systems, high-performance 
 Python, JavaScript, HTML/CSS, TypeScript, SQL, Linux/Bash, Rust, YAML, JSON
 
 **🛠 Tools & Environment:**  
-Git, VS Code, Node, Electron, Pyenv, Vite, Psycopg, GitHub, Venv
+Git, VS Code, Node, Electron, Pyenv, Vite, Psycopg, GitHub, Venv, Tmux, Tmuxinator
 
 **🌐 Web Frameworks:**  
 Flask, Django, Axum
