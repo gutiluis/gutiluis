@@ -83,7 +83,7 @@ Safety
 
 * **Developer blogs** [![dev.to](https://img.shields.io/badge/-DEV%20Community-000000?style=flat&logo=dev-dot-to&logoColor=white)](https://dev.to/gutiluis)
 
-* **LinkedIn** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-g-1546971ba/)
+* **LinkedIn** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gutiluis/)
 
 * **GitLab** [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/gutiluis)
 
