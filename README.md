@@ -43,9 +43,6 @@ React, Bootstrap, Tailwind CSS, LynxJS, WASM
 **🧪 Testing & Debugging:**  
 Vitest, Pytest, Unittest, Logging, Pdb, GitHub Actions, Bats
 
-**🔍 Linting & Validation:**  
-ESLint, Ruff, Pylint, ShellCheck, HTMLHint, Nu Html Checker, Pre-commit
-
 **🎨 CSS Processing:**  
 Dart Sass, Sass, Lightning CSS
 
