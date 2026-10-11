@@ -44,7 +44,7 @@ React, Bootstrap, Tailwind CSS, LynxJS, WASM
 Vitest, Pytest, Unittest, Logging, Pdb, GitHub Actions, Bats
 
 **🎨 CSS Processing:**  
-Dart Sass, Sass
+Dart Sass
 
 **♿ Accessibility & SEO Tools:**  
 Axe-core, Lighthouse
