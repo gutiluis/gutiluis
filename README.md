@@ -89,7 +89,7 @@ Safety
 
 * **Discord:** [`technobool`](https://discord.com/users/technobool/1276907162332954687)
 
-* **Discord Bot:** [Invite technobool to your server](https://discord.com/oauth2/authorize?client_id=1532111090052370642&scope=bot)
+* **Discord Bot:** [Invite technobool to your server](https://discord.gg/ExgJQhbqhH)
 
 * **Slack:** [`technobool.slack.com`](https://technobool.slack.com)
 
