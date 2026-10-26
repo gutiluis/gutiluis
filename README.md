@@ -28,8 +28,8 @@ I love specializing in designing scalable distributed systems, high-performance 
 **💻 Languages & Markup:**  
 Python, JavaScript, HTML/CSS, TypeScript, SQL, Linux/Bash, Rust, YAML, JSON
 
-**🛠 Tools & Environment:**  
-Git, VS Code, Node, Electron, Pyenv, Vite, Psycopg, GitHub, Venv, Tmuxinator
+**🛠 Tools:**  
+Git, GitHub, CLI
 
 **🌐 Web Frameworks:**  
 Flask, Django, Axum
@@ -42,12 +42,6 @@ React, Bootstrap, Tailwind CSS, LynxJS, WASM
 
 **🧪 Testing & Debugging:**  
 Vitest, Pytest, Unittest, Logging, Pdb, GitHub Actions, Bats
-
-**🎨 CSS Processing:**  
-Dart Sass
-
-**♿ Accessibility & SEO Tools:**  
-Axe-core, Lighthouse
 
 **🗄 Databases:**  
 RDBMS: MySQL, PostgreSQL, SQLite, Supabase  
