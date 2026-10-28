@@ -48,7 +48,7 @@ RDBMS: MySQL, PostgreSQL, SQLite, Supabase
 NoSQL: MongoDB
 
 **🐳 Containers & Deployment:**  
-Docker, Cloudflare, Colima
+Docker, Colima
 
 **🛡 Security:**  
 Safety
