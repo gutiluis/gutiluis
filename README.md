@@ -90,6 +90,3 @@ Safety
 * **Discord:** [`technobool`](https://discord.gg/ExgJQhbqhH)
 
 * **Slack:** [`technobool.slack.com`](https://technobool.slack.com)
-
----
-This site was built using [GitHub Pages](https://pages.github.com/).
