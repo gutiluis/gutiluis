@@ -87,9 +87,7 @@ Safety
 
 * **X:** [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/gtzvenegasluis)
 
-* **Discord:** [`technobool`](https://discord.com/users/technobool/1276907162332954687)
-
-* **Discord Bot:** [Invite technobool to your server](https://discord.gg/ExgJQhbqhH)
+* **Discord:** [`technobool`](https://discord.gg/ExgJQhbqhH)
 
 * **Slack:** [`technobool.slack.com`](https://technobool.slack.com)
 
